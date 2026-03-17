@@ -1,6 +1,7 @@
 # AI Meme Generator
 
 A Streamlit web app that generates meme captions using the Claude API and overlays them on images.
+The project is based on Zenva's course "Python AI Project – Meme Generator with Streamlit" and is not an original of mine.
 
 ## Features
 
